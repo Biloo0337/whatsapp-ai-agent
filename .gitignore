@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Chrome / Webdriver data
+chrome-data/
+chrome-data-new/
+chrome_profile/
+chromedriver-win64/
+chromedriver.exe
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Editor files
+.vscode/
+.idea/
